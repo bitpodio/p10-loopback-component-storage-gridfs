@@ -54,7 +54,7 @@
     "url": "https://github.com/MrMartiniMo/loopback-component-storage-gridfs/issues"
   },
   "dependencies": {
-    "multiparty": "^4.1.3",
+    
     
     "gridfs-stream": "^1.1.1",
     "lodash": "^4.6.1",
